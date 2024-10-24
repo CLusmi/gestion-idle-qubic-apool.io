@@ -1,6 +1,6 @@
 Permet la gestion de l'IDLE pendant le mining QUBIC sur la pool APOOL.IO
 
-Le script "idle.sh" doit etre utiliser dans le dossier du mineur APOOL. (/hive/miners/custom/apoolminer_hiveos/)
+Le script "idle.sh" doit etre utilisé dans le dossier du mineur APOOL. (/hive/miners/custom/apoolminer_hiveos/)
 
 Les scripts "ocdebut.sh" et "ocfin.sh" doivent etres dans le dossier user. (/home/user)
 
